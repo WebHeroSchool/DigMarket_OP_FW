@@ -1,0 +1,116 @@
+.wrapper {
+  margin: auto;
+}
+
+.main {
+  margin: 0;
+  background: no-repeat url(img/mainImg.png);
+  width: 1440px;
+  height: 839px;
+}
+
+.menu {
+  padding: 70px 130px 0 585px;
+  display: inline-block;
+  float: right;
+  font: 900 18px/21px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(255,255,255);
+}
+
+.main__title{
+  margin: 0;
+  font: 900 40px/47px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(255,255,255);
+  margin-bottom: 11px;
+  padding-left: 950px;
+  padding-right: 130px;
+  padding-top: 222px;
+
+}
+
+.main__subtitle{
+  padding-left: 1011px;
+  font: 900 20px/23px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(255,255,255);
+  margin: 0;
+  margin-bottom: 39px;
+  padding-right: 130px;
+}
+
+.main__button{
+  margin-left: 1100px;
+  margin-right: 130px;
+  display: inline-block;
+  font: 900 20px/23px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(255,255,255);
+  background: #E0036F;
+  padding: 16px 66px;
+  border: none;
+}
+
+.middle{
+  width: 1440px;
+  height: 397px;
+  background-color: rgb(227,234,254,1);
+}
+
+.middle__title{
+  margin: 0;
+  padding-top: 55px;
+  font: 900 30px/35px 'Roboto', arial, helvetica, sans-serif;
+  text-align: center;
+
+}
+
+.middle__price{
+  padding-top: 10px;
+  padding-bottom: 3px;
+  font: 900 30px/35px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(38,59,131,1);
+  text-align: center;
+
+}
+
+.middle__button{
+  margin-left: 620px;
+  justify-content: center;
+  width: 200px;
+  height: 55px;
+  font: 900 20px/23px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(0,0,0,1);
+  background: #FFDA45;
+  box-shadow: 5px 5px 20px;
+  border: none;
+}
+
+.middle__book{
+  font: 900 20px/23px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(88,88,88,1);
+  text-decoration: none;
+  justify-content: center;
+}
+
+.participant{
+  width: 1440px;
+  height: 327px;
+  background-color: rgb(64,93,187,1);
+}
+
+.participant__image{
+  width: 464px;
+  height: 327px;
+}
+
+.participant__title{
+  margin: 0;
+  font: 900 30px/35px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(255,255,255);
+}
+
+
+.participant__subtitle{
+  margin: 0;
+  font: 900 20px/23px 'Roboto', arial, helvetica, sans-serif;
+  color: rgb(255,255,255);
+  padding-left: 130px;
+}
